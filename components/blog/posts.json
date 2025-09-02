@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "api-que-es",
+    "title": "¿Qué es una API y para qué sirve?",
+    "date": "2025-07-28",
+    "summary": "Una API permite que diferentes sistemas se comuniquen. Aquí te explicamos cómo funciona con ejemplos.",
+    "content": "<p>Una API (Application Programming Interface) es una interfaz que permite la comunicación entre dos sistemas de software. Por ejemplo, una app del clima usa una API para obtener datos del tiempo.</p><p>Las APIs hacen posible la integración entre servicios y son clave en el desarrollo moderno.</p>"
+  },
+  {
+    "slug": "docker-ventajas",
+    "title": "Ventajas de usar Docker en desarrollo",
+    "date": "2025-07-20",
+    "summary": "Docker permite crear entornos reproducibles. Descubre por qué es esencial para desarrolladores modernos.",
+    "content": "<p>Docker permite contenerizar aplicaciones, lo que significa que puedes ejecutar tu software en cualquier sistema operativo con la misma configuración.</p><p>Esto mejora la portabilidad, reduce errores de configuración y acelera el proceso de desarrollo.</p>"
+  }
+]
