@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-   base: 'https://github.com/VeronicaSj/PRE_Portfolio', // Link page
+   base: 'https://veronicasj.github.io/PRE_Portfolio/reactversion/', // Link page
 })
