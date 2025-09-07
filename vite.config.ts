@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio/', // <-- importante para Pages
+  base: '/PRE_Portfolio/', // <-- importante para Pages
 })
