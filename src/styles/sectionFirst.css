@@ -1,0 +1,8 @@
+.sectionFirst {
+    color: var(--clr-brown);
+    background-color: var(--clr-white);
+}
+
+.header {
+    color: var(--clr-orange);
+}

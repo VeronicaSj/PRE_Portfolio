@@ -1,0 +1,113 @@
+:root {
+  --clr-orange : #C97C5D;
+  --clr-light-orange : #E3B5A4;
+  --clr-green : #A6BBA6;
+  --clr-brown : #5C4742;
+  --clr-white : #FFF8F0;
+  --clr-black : #000000;
+
+  --font-size-h1: 48px;
+  --font-size-h2: 38px;
+  --font-size-h3: 28px;
+  --font-size-p: 18px;
+}
+
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Quicksand', sans-serif;
+  background-color: var(--clr-white);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--clr-white);
+  font-family: sans-serif;
+  color: var(--clr-brown);
+}
+
+h1, h2, h3 {
+  font-family: 'Marcellus', serif;
+  color: var(--clr-orange);
+}
+
+section {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+p{
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+img {
+  width: 16rem;
+    margin-bottom: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    vertical-align: middle;
+}
+
+.first-section {
+    background-color: var(--clr-white);
+}
+
+.second-section {
+    color: var(--clr-white);
+    background-color: var(--clr-green);
+}
+
+@media (max-width: 900px) {
+  :root {
+    --font-size-h1: 48px;
+    --font-size-h2: 38px;
+    --font-size-h3: 28px;
+    --font-size-p: 18px;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --font-size-h1: 40px;
+    --font-size-h2: 32px;
+    --font-size-h3: 24px;
+    --font-size-p: 16px;
+  }
+}
+
+@media (max-width: 400px) {
+  :root {
+    --font-size-h1: 34px;
+    --font-size-h2: 28px;
+    --font-size-h3: 22px;
+    --font-size-p: 16px;
+  }
+}
+
+@media (max-width: 300px) {
+  :root {
+    --font-size-h1: 28px;
+    --font-size-h2: 24px;
+    --font-size-h3: 20px;
+    --font-size-p: 16px;
+  }
+}
+
+h1 { font-size: var(--font-size-h1);}
+h2 { font-size: var(--font-size-h2);}
+h3 { font-size: var(--font-size-h3);}
+p { font-size: var(--font-size-p);}

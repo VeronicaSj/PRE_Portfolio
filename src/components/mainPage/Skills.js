@@ -1,0 +1,182 @@
+import  '../../styles/index.css';
+import  '../../styles/sectionFirst.css';
+
+function Skills() {
+    return (
+      <section id="skills" className='sectionFirst'>
+          <div>
+            <h2>My Skills</h2>
+            
+            {/* Java Ecosystem */}
+            <div>
+              <h3 style={{color: "var(--clr-orange)"}}>Java Ecosystem</h3>
+              <ul>
+                <li>Java</li>
+                <li>J2EE</li>
+                <li>Jakarta EE</li>
+                <li>Hibernate</li>
+                <li>PrimeFaces</li>
+                <li>JavaServer Faces</li>
+                <li>JPA</li>
+                <li>JPQL</li>
+                <li>JDBC</li>
+                <li>Maven</li>
+                <li>Sockets</li>
+                <li>jUnit</li>
+                <li>Swing</li>
+                <li>iReport</li>
+                <li>JDK (7, 8, 11, 12, 23, 24)</li>
+              </ul>
+            </div>
+
+            {/* Spring Framework */}
+            <div>
+              <h3 style={{color: "var(--clr-orange)"}}>Spring Framework</h3>
+              <ul>
+                <li>Spring Boot</li>
+                <li>Spring Web</li>
+                <li>Spring Data</li>
+                <li>Spring Security</li>
+                <li>Spring Core</li>
+                <li>Thymeleaf</li>
+              </ul>
+            </div>
+
+            {/* Databases */}
+            <div>
+              <h3>Databases</h3>
+              <ul>
+                <li>Oracle SQL</li>
+                <li>PLSQL</li>
+                <li>MySQL</li>
+                <li>PostgreSQL</li>
+                <li>H2</li>
+                <li>JSON</li>
+                <li>XML</li>
+              </ul>
+            </div>
+
+            {/* BackEnd */}
+            <div>
+              <h3>BackEnd</h3>
+              <ul>
+                <li>PHP</li>
+                <li>Django</li>
+                <li>Rest Framework</li>
+                <li>Python</li>
+              </ul>
+            </div>
+
+            {/* FrontEnd */}
+            <div>
+              <h3>FrontEnd</h3>
+              <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Angular</li>
+                <li>ReactJS</li>
+                <li>NodeJS</li>
+                <li>Vite</li>
+                <li>Figma</li>
+                <li>Gimp</li>
+              </ul>
+            </div>
+
+            {/* Full Stack */}
+            <div>
+              <h3>Full Stack</h3>
+              <ul>
+                <li>Drupal</li>
+                <li>WordPress</li>
+                <li>JavaScript</li>
+              </ul>
+            </div>
+            
+            {/* Infrastructure & DevOps  */}
+            <div>
+              <h3>Infrastructure & DevOps</h3>
+              <ul>
+                <li>Tomcat</li>
+                <li>Docker</li>
+                <li>Unix</li>
+                <li>Linux</li>
+                <li>Ubuntu</li>
+                <li>Shell Bash Scripting</li>
+                <li>Windows Server</li>
+                <li>WSL</li>
+                <li>Microsoft Azure</li>
+              </ul>
+            </div>
+
+            {/* Monitoring & Management */}
+            <div>
+              <h3>Monitoring & Management</h3>
+              <ul>
+                <li>Dynatrace</li>
+                <li>Grafana</li>
+                <li>Introscope</li>
+              </ul>
+            </div>
+
+            {/* IDEs  */}
+            <div>
+              <h3>IDEs</h3>
+              <ul>
+                <li>Visual Studio</li>
+                <li>Android Studio</li>
+                <li>Netbeans</li>
+                <li>Eclipse</li>
+              </ul>
+            </div>
+
+            {/* Version Control & Project Management */}
+            <div>
+              <h3>Version Control & Project Management</h3>
+              <ul>
+                <li>GitHub</li>
+                <li>Jira</li>
+                <li>Trello</li>
+                <li>ClickUp</li>
+              </ul>
+            </div>
+
+            {/* Methodologies & Best Practices */}
+            <div>
+              <h3>Methodologies & Best Practices</h3>
+              <ul>
+                <li>Agile</li>  
+                <li>Scrum</li>
+                <li>Test-Driven Development (TDD)</li>
+                <li>Clean Code</li>
+                <li>Design Patterns</li>
+                <li>UML Diagrams</li>
+                <li>Customer-Oriented Approach</li>
+                <li>Microservices</li>
+              </ul>
+            </div>
+
+            {/* Other Skills */}
+            <div>
+              <h3>Other Skills</h3>
+              <ul>
+                <li>Office Tools</li>
+                <li>Odoo 14</li>
+                <li>Visual Basic</li>
+              </ul>
+            </div>
+
+            {/* Languages */}
+            <div>
+              <h3>Languages</h3>
+              <ul>
+                <li>Spanish (Native)</li>
+                <li>English (B2)</li>
+                <li>German (Basic)</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+    );
+}
+
+export default Skills;
