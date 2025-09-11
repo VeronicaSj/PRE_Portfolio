@@ -21,4 +21,4 @@ git push -u origin main
 npm run deploy
 ```
 
-The site will be live at: https://veronicasj.github.io/PRE_Portfolio
+The site will be live at: https://veronicasj.github.io/Portfolio
