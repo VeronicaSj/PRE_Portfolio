@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PRE_Portfolio/static/css/main.d7362ebd.css",
-    "main.js": "/PRE_Portfolio/static/js/main.963b461f.js",
-    "static/media/selfie.png": "/PRE_Portfolio/static/media/selfie.a8b1007b746695908ec8.png",
-    "static/media/logoKyndryl.jpg": "/PRE_Portfolio/static/media/logoKyndryl.4c1f1d9925755394e920.jpg",
-    "static/media/logoPythonman.jpeg": "/PRE_Portfolio/static/media/logoPythonman.957f465c99b4571762ed.jpeg",
-    "index.html": "/PRE_Portfolio/index.html",
-    "main.d7362ebd.css.map": "/PRE_Portfolio/static/css/main.d7362ebd.css.map",
-    "main.963b461f.js.map": "/PRE_Portfolio/static/js/main.963b461f.js.map"
+    "main.css": "/Portfolio/static/css/main.65d52243.css",
+    "main.js": "/Portfolio/static/js/main.dcb3c038.js",
+    "static/media/selfie.png": "/Portfolio/static/media/selfie.a8b1007b746695908ec8.png",
+    "static/media/logoKyndryl.jpg": "/Portfolio/static/media/logoKyndryl.4c1f1d9925755394e920.jpg",
+    "static/media/logoPythonman.jpeg": "/Portfolio/static/media/logoPythonman.957f465c99b4571762ed.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.65d52243.css.map": "/Portfolio/static/css/main.65d52243.css.map",
+    "main.dcb3c038.js.map": "/Portfolio/static/js/main.dcb3c038.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7362ebd.css",
-    "static/js/main.963b461f.js"
+    "static/css/main.65d52243.css",
+    "static/js/main.dcb3c038.js"
   ]
 }

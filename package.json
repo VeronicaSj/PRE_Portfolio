@@ -1,8 +1,8 @@
 {
-  "name": "pre-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://veronicasj.github.io/PRE_Portfolio",
+  "homepage": "https://veronicasj.github.io/Portfolio",
   "dependencies": {
     "deploy": "^1.0.3",
     "react": "^18.2.0",
