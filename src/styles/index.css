@@ -3,7 +3,8 @@
   --clr-light-orange : #E3B5A4;
   --clr-green : #A6BBA6;
   --clr-brown : #5C4742;
-  --clr-white : #FFF8F0;
+  --clr-bg : #FFF8F0;
+  --clr-white : #FFFFFF;
   --clr-black : #000000;
 
   --font-size-h1: 48px;
@@ -18,7 +19,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Quicksand', sans-serif;
-  background-color: var(--clr-white);
+  background-color: var(--clr-bg);
 }
 
 code {
@@ -30,7 +31,7 @@ html, body, #root {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: var(--clr-white);
+  background-color: var(--clr-bg);
   font-family: sans-serif;
   color: var(--clr-brown);
 }
@@ -52,7 +53,6 @@ p{
 }
 
 img {
-  width: 16rem;
     margin-bottom: 1.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -63,11 +63,11 @@ img {
 }
 
 .first-section {
-    background-color: var(--clr-white);
+    background-color: var(--clr-bg);
 }
 
 .second-section {
-    color: var(--clr-white);
+    color: var(--clr-bg);
     background-color: var(--clr-green);
 }
 

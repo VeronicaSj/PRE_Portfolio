@@ -7,6 +7,7 @@ import Education from './Education';
 import Experience from './Experience';
 import Skills from './Skills';
 import Info from './Info';
+import FloatingContactBar from './FloatingContactBar';
 
 function MainPage() {
   return (
@@ -17,6 +18,7 @@ function MainPage() {
         <Skills id="skills"></Skills>
         <Education id="education"></Education>
         <Contact id="contact"></Contact>
+        <FloatingContactBar></FloatingContactBar>
     </div>
   );
 }

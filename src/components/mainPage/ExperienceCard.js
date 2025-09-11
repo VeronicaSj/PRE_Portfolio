@@ -20,7 +20,7 @@ function ExperienceCard({ img,imageAlt, title, role, date, description}) {
               <h3>{title}</h3>
               <p style={{fontWeight: 'bolder',}}>{role}</p>
               <p style={{fontWeight: 'bolder',}}>{date}</p>
-              {description}
+              <div style={{textAlign: 'left'}}>{description}</div>
             </div>
     </div>
   );

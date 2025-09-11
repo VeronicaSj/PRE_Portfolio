@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PRE_Portfolio/static/css/main.67d80936.css",
-    "main.js": "/PRE_Portfolio/static/js/main.c2254b1c.js",
+    "main.css": "/PRE_Portfolio/static/css/main.d7362ebd.css",
+    "main.js": "/PRE_Portfolio/static/js/main.963b461f.js",
     "static/media/selfie.png": "/PRE_Portfolio/static/media/selfie.a8b1007b746695908ec8.png",
     "static/media/logoKyndryl.jpg": "/PRE_Portfolio/static/media/logoKyndryl.4c1f1d9925755394e920.jpg",
     "static/media/logoPythonman.jpeg": "/PRE_Portfolio/static/media/logoPythonman.957f465c99b4571762ed.jpeg",
     "index.html": "/PRE_Portfolio/index.html",
-    "main.67d80936.css.map": "/PRE_Portfolio/static/css/main.67d80936.css.map",
-    "main.c2254b1c.js.map": "/PRE_Portfolio/static/js/main.c2254b1c.js.map"
+    "main.d7362ebd.css.map": "/PRE_Portfolio/static/css/main.d7362ebd.css.map",
+    "main.963b461f.js.map": "/PRE_Portfolio/static/js/main.963b461f.js.map"
   },
   "entrypoints": [
-    "static/css/main.67d80936.css",
-    "static/js/main.c2254b1c.js"
+    "static/css/main.d7362ebd.css",
+    "static/js/main.963b461f.js"
   ]
 }
